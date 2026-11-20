@@ -1,7 +1,3 @@
-if (identical(tolower(Sys.getenv("PATIENT_COUNT_DEMO_FAIL", "false")), "true")) {
-  stop("Intentional demo failure: patient-count LEP test")
-}
-
 suppressPackageStartupMessages(library(DatabaseConnector))
 
 run_patient_count <- function() {
