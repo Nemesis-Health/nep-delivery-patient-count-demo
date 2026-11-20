@@ -1,0 +1,15 @@
+delivery_id: patient-count-demo
+version: "0.1.1"
+
+contacts:
+  ProjectOwner:
+    name: NEP Demo
+    email: nep.test@nemesis.health
+  Stakeholder:
+    name: NEP Demo
+    email: nep.test@nemesis.health
+  Admin:
+    name: NEP Demo
+    email: nep.test@nemesis.health
+
+github_url: https://github.com/Nemesis-Health/nep-delivery-patient-count-demo
