@@ -1,5 +1,5 @@
 delivery_id: patient-count-demo
-version: "0.1.1"
+version: "0.1.2"
 
 contacts:
   ProjectOwner:
